@@ -1,0 +1,8 @@
+{
+    "notebook.showFoldingControls": "never",
+    "notebook.cellFocusIndicator": "gutter",
+    "notebook.cellToolbarVisibility": "hover",
+    "notebook.consolidatedRunButton": true,
+    "notebook.diff.overviewRuler": true,
+    "editor.cursorStyle": "line-thin"
+}
