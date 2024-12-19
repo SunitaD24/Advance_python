@@ -4,5 +4,7 @@
     "notebook.cellToolbarVisibility": "hover",
     "notebook.consolidatedRunButton": true,
     "notebook.diff.overviewRuler": true,
-    "editor.cursorStyle": "line-thin"
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "solid",
+    "terminal.integrated.cursorBlinking": true
 }
